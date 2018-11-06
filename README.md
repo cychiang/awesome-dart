@@ -25,6 +25,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
   * [Image](#image)
   * [Algorithms](#algorithms)
   * [Testing](#testing)
+  * [RPC Frameworks](#rpc-frameworks)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
@@ -125,6 +126,10 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Guinness](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
+
+## RPC Frameworks
+
+* [grpc-dart](https://github.com/grpc/grpc-dart) - A high performance, open source, general RPC framework for building server/client applications on top of HTTP/2.
 
 ## Tools
 
